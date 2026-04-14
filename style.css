@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 255) ;
+    background-color: rgb(252, 196, 196) ;
     line-height: 1.5;
     font-family: sans-serif;
     text-align: justify;
@@ -11,4 +11,30 @@ body {
 h2 {
     text-align: left;
     color: black
+}
+
+button {
+    width : 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(253, 179, 241);
+
+    display: block;
+    margin: auto;
+    
+}
+button a{
+    font-family: verdana, geneva, tahoma, sans-serif;
+color:rgb(194, 16, 135);
+text-decoration: none;
+}
+img {
+width:50%;
+    display: block;
+    margin: auto;
+    
+}
+header{
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
